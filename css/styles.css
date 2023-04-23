@@ -324,6 +324,7 @@ img {
 
 .footer {
   background-color: #2e2f42;
+  padding: 100px 0;
 }
 
 .footer-link-logo {
@@ -345,6 +346,22 @@ img {
   text-align: left;
   text-transform: uppercase;
   color: #f4f4fd;
+
+  display: inline-block;
+  margin-bottom: 16px;
+}
+
+
+.footer-desk {
+  font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+
+    max-width: 264px;
 }
 
 .button-filter {
