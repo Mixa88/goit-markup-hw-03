@@ -40,7 +40,7 @@ img {
   display: flex;
   align-items: center;
 
-  gap: 40px;
+ 
 }
 
 .list {
@@ -161,8 +161,16 @@ img {
   margin-right: 40px;
 }
 
+.nav-item-contacts {
+  margin-right: 0;
+}
+
 .list {
   list-style: none;
+}
+
+.list-nav {
+  gap: 40px;
 }
 
 .nav-item:hover,
