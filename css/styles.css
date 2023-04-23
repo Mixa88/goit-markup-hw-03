@@ -35,6 +35,10 @@ body {
   display: flex;
 }
 
+.container-nav {
+  display: flex;
+}
+
 .container {
   width: 1158px;
   margin: 0 auto;
