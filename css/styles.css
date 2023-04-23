@@ -273,8 +273,9 @@ img {
 
 /* Section#3 */
 
-.section-three {
+.sec-three {
   background-color: #f4f4fd;
+  padding: 120px 0;
 }
 
 .section-three-title {
@@ -287,10 +288,24 @@ img {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+
+  margin-bottom: 72px;
+}
+
+.list-three {
+  display: flex;
+  list-style: none;
+  gap: 24px;
 }
 
 .list-style {
   background-color: #ffffff;
+  width: calc((100% - 72px) / 4);
+  border-radius: 0px 0px 4px 4px;
+}
+
+.container-info {
+  padding: 32px 16px;
 }
 
 .list-name {
@@ -299,6 +314,9 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--color-navy-blue);
+
+  text-align: center;
+  margin-bottom: 8px;
 }
 
 .desk {
@@ -307,6 +325,8 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--color-slate);
+
+  text-align: center;
 }
 
 .footer {
