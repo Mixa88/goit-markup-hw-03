@@ -109,8 +109,6 @@ img {
 }
 
 .main-title {
-  
-
   font-size: 56px;
   font-family: "Roboto";
   font-weight: 700;
@@ -126,9 +124,6 @@ img {
 }
 
 .button-hero {
-
-
-
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -180,8 +175,6 @@ img {
   gap: 40px;
 } */
 
-
-
 .nav-item:hover,
 .nav-item:focus {
   color: #404bbf;
@@ -206,7 +199,6 @@ img {
   list-style: none;
   display: flex;
   gap: 24px;
-
 }
 
 .li-sec-one {
@@ -255,8 +247,6 @@ img {
   text-transform: capitalize;
   color: #2e2f42;
 
-  
-
   margin-bottom: 72px;
 }
 
@@ -268,7 +258,7 @@ img {
 
 .li-sec-two {
   width: calc((100% - 48px) / 3);
-  border: 1px solid #E7E9FC;
+  border: 1px solid #e7e9fc;
 }
 
 /* Section#3 */
@@ -302,6 +292,9 @@ img {
   background-color: #ffffff;
   width: calc((100% - 72px) / 4);
   border-radius: 0px 0px 4px 4px;
+
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
 .container-info {
