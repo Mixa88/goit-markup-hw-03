@@ -363,6 +363,19 @@ img {
   max-width: 264px;
 }
 
+
+/* Portfolio */
+
+.nav-portfolio {
+  border-bottom: 1px solid #e7e9fc;
+}
+
+.container-portfolio {
+  display: flex;
+}
+
+
+
 .button-filter {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
