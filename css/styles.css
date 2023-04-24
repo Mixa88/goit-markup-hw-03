@@ -32,6 +32,10 @@ img {
   height: auto;
 }
 
+ul {
+  padding: left 0px;
+}
+
 .nav {
   border-bottom: 1px solid #e7e9fc;
 }
@@ -209,6 +213,7 @@ img {
   list-style: none;
   display: flex;
   gap: 24px;
+  
 }
 
 .li-sec-one {
