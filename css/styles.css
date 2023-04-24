@@ -43,6 +43,7 @@ img {
 
 .list {
   display: flex;
+  gap: 40px;
 }
 
 .list-nav {
@@ -160,6 +161,7 @@ img {
   color: #2e2f42;
 
   margin-right: 40px;
+  padding: 24px 0;
 }
 
 .nav-item-contacts {
