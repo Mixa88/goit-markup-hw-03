@@ -50,11 +50,11 @@ img {
   letter-spacing: 0.02em;
   color: #2e2f42;
 
-  
+  padding: 24px 0;
 }
 
 .nav-item-contacts {
-  
+  margin-right: 0;
   
 }
 
