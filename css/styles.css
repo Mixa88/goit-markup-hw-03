@@ -41,6 +41,23 @@ img {
   align-items: center;
 }
 
+.nav-item {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+
+  
+}
+
+.nav-item-contacts {
+  
+  
+}
+
 .list {
   display: flex;
   gap: 40px;
@@ -48,6 +65,7 @@ img {
 
 .list-nav {
   gap: 40px;
+  display: flex;
 }
 
 .container-nav {
@@ -151,22 +169,7 @@ img {
   color: #ffffff;
 }
 
-.nav-item {
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
 
-  margin-right: 40px;
-  padding: 24px 0;
-}
-
-.nav-item-contacts {
-  margin-right: 0;
-}
 
 .list {
   list-style: none;
